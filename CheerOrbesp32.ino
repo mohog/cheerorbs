@@ -27,9 +27,9 @@ By Andy Stanford-Clark (@andysc)
 #define VERSION "1.0"
 
 //Led variables
-int leds = 300;
-int bright = 5;
-int pin = 2;
+const int leds = 300;
+const int bright = 5;
+const int pin = 2;
 
 
 // define this if you want to force a reset of the wifi credentials at the start
