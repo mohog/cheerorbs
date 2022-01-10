@@ -3,14 +3,14 @@
  *  
  *  Cheerlights on a Neopixel on a Wemos ESP8266 using MQTT
 
-Neopixel application using a WeMoS D1 ESP-8266 board connecting to an MQTT broker
+Neopixel application using a ESP-32 board connecting to an MQTT broker
 expects messages of the form: "#rrggbb" and sets the LED to that colour
 
 
 By Andy Stanford-Clark (@andysc)
  May 2016 to
  Dec 2021
-
+Altered by Sean Monaghen for ESP-32
 
 *** update the VERSION string!!! ***
 
